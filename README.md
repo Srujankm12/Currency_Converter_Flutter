@@ -1,4 +1,4 @@
-# currency_converter
+# Currency Converter
 
 A new Flutter project.
 
@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github.com/Srujankm12/Currency_Converter_Flutter/blob/main/imgs/img1.png"  width="300" /></td>
+    <td valign="top"><img src="https://github.com/Srujankm12/Currency_Converter_Flutter/blob/main/imgs/img2.png" width="300" /></td>
+  </tr>
+</table>
+h
